@@ -5,8 +5,8 @@ image: /img/boats-in-body-of-water-1619854.jpg
 heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
+  body: dsvcsdvsdv
   title: What we're about
-description: We have 3 talks
 intro:
   blurbs:
     - image: /img/business-coffee-composition-computer-265667.jpg
@@ -47,19 +47,19 @@ intro:
         example application which progressively introduces each of the API's
         while showing what benefits they bring, the patterns we can leverage,
         and the gotchas to watch out for.
-  heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+  heading: What we offer
 main:
-  heading: December 2nd talks
   description: >
     We hold our coffee to the highest standards from the shrub to the cup.
     That’s why we’re meticulous and transparent about each step of the coffee’s
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
+  heading: December 2nd talks
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
@@ -71,4 +71,3 @@ main:
     image: /img/products-grid1.jpg
 ---
 
-hey yo
