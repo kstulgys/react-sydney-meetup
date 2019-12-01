@@ -5,6 +5,7 @@ import { Link, graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import Features from '../components/Features'
 import BlogRoll from '../components/BlogRoll'
+import Markdown from 'react-markdown'
 
 export const IndexPageTemplate = ({
   image,
@@ -76,10 +77,9 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <div
-                      className="subtitle"
-                      dangerouslySetInnerHTML={{ __html: html }}
-                    />
+                    <div>
+                      <Markdown source={mainpitch.description} />
+                    </div>
                   </div>
                 </div>
                 <div className="columns">
@@ -175,6 +175,7 @@ export const pageQuery = graphql`
         subheading
         mainpitch {
           title
+          description
         }
         description
         intro {

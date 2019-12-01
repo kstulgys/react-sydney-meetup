@@ -6,6 +6,8 @@ heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
   title: What we're about
+  description: |
+    sdvsdvsdvsdvsdv
 intro:
   blurbs:
     - image: /img/business-coffee-composition-computer-265667.jpg
@@ -69,6 +71,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
 React is taking the web development world by storm! Thanks to Facebook's excellent engineering team, and the countless public contributors helping not only with react core, but the entire react community, we can all help push component based frontends forward.
 
 This group is for those interested in the React.js scene, both new and experienced.
