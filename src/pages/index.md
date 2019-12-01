@@ -14,7 +14,6 @@ mainpitch:
 
     We like new:
 
-
     * speakers
 
     * events
@@ -25,8 +24,6 @@ mainpitch:
     This group is for those interested in the **React.js** scene, both new and
     experienced
 
-
-    #
   title: What we're about
 intro:
   blurbs:
@@ -91,6 +88,7 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
 React is taking the web development world by storm! Thanks to Facebook's excellent engineering team, and the countless public contributors helping not only with react core, but the entire react community, we can all help push component based frontends forward.
 
 This group is for those interested in the React.js scene, both new and experienced.
