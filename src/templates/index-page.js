@@ -76,7 +76,7 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3
+                    <div
                       className="subtitle"
                       dangerouslySetInnerHTML={{ __html: html }}
                     />
