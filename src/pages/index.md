@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: React Sydney Meetup
-image: /img/boats-in-body-of-water-1619854.jpg
+image: /img/architecture-buildings-city-city-life-995764.jpg
 heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
@@ -69,11 +69,6 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+React is taking the web development world by storm! Thanks to Facebook's excellent engineering team, and the countless public contributors helping not only with react core, but the entire react community, we can all help push component based frontends forward.
 
-sdcsdcdscsd
-
-sdc
-
-sdc
-
-sdc
+This group is for those interested in the React.js scene, both new and experienced.
