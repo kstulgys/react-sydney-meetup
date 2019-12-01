@@ -53,12 +53,9 @@ collections:
               label: Mainpitch,
               name: mainpitch,
               widget: object,
-              fields:
-                [
-                  { label: Title, name: title, widget: string },
-                  { label: Body, name: body, widget: markdown },
-                ],
+              fields: [{ label: Title, name: title, widget: string }],
             }
+          - { label: Body, name: body, widget: markdown }
           - {
               label: Intro,
               name: intro,
