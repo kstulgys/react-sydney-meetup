@@ -5,7 +5,6 @@ image: /img/boats-in-body-of-water-1619854.jpg
 heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
-  description: |-
   title: What we're about
 description: We have 3 talks
 intro:
@@ -72,6 +71,4 @@ main:
     image: /img/products-grid1.jpg
 ---
 
-hello
-
-- world
+hey yo
