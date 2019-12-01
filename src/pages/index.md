@@ -19,10 +19,15 @@ description: We have 3 talks
 intro:
   blurbs:
     - image: /img/business-coffee-composition-computer-265667.jpg
+      tags:
+        - Design
+        - Dev
+        - Gatsby
       text: "Gatsby \U0001F496 Netlify CMS\nManage your website/portfolio/blog/...you name it... content with ease.\n\nIn this talk I will show you how to: - set up Gatsby with Netlify CMS. - add content via Netlify CMS admin panel with different widgets (text, markdown, select, etc.). - query data with graphql layer in Gatsby and render the content. - workflow pushing new changes to the website."
-      tags: ['yay', 'this is cool']
     - image: >-
         /img/man-wearing-black-and-white-stripe-shirt-looking-at-white-212286.jpg
+      tags:
+        - TDD
       text: >-
         Test Driven Development with React
 
@@ -38,6 +43,8 @@ intro:
         part of the talk I will work through a trivial example to demonstrate
         how to do TDD.
     - image: /img/coding-computer-data-depth-of-field-577585.jpg
+      tags:
+        - Concurrency
       text: >-
         Concurrent Mode
 
@@ -72,3 +79,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
