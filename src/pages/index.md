@@ -5,16 +5,13 @@ image: /img/boats-in-body-of-water-1619854.jpg
 heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
+  body: |-
+    * so this is our markdown
+    * just 
+    * to prove
+
+    not
   title: What we're about
-  description: >-
-    React is taking the web development world by storm! Thanks to Facebook's
-    excellent engineering team, and the countless public contributors helping
-    not only with react core, but the entire react community, we can all help
-    push component based frontends forward.
-
-
-    This group is for those interested in the React.js scene, both new and
-    experienced.
 description: We have 3 talks
 intro:
   blurbs:
