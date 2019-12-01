@@ -13,7 +13,8 @@ export const IndexPageTemplate = ({
   subheading,
   mainpitch,
   description,
-  intro
+  intro,
+  html
 }) => (
   <div>
     <div
@@ -75,7 +76,10 @@ export const IndexPageTemplate = ({
                     <h1 className="title">{mainpitch.title}</h1>
                   </div>
                   <div className="tile">
-                    <h3 className="subtitle">{mainpitch.body}</h3>
+                    <h3
+                      className="subtitle"
+                      dangerouslySetInnerHTML={{ __html: html }}
+                    />
                   </div>
                 </div>
                 <div className="columns">
@@ -127,7 +131,7 @@ IndexPageTemplate.propTypes = {
 }
 
 const IndexPage = ({ data }) => {
-  const { frontmatter } = data.markdownRemark
+  const { frontmatter, html } = data.markdownRemark
 
   return (
     <Layout>
@@ -139,6 +143,7 @@ const IndexPage = ({ data }) => {
         mainpitch={frontmatter.mainpitch}
         description={frontmatter.description}
         intro={frontmatter.intro}
+        html={html}
       />
     </Layout>
   )
@@ -189,6 +194,7 @@ export const pageQuery = graphql`
           description
         }
       }
+      html
     }
   }
 `

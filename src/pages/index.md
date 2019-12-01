@@ -5,7 +5,7 @@ image: /img/boats-in-body-of-water-1619854.jpg
 heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
-  body: |-
+  description: |-
     * so this is our markdown
     * just 
     * to prove
@@ -77,3 +77,6 @@ main:
     image: /img/products-grid1.jpg
 ---
 
+hello
+
+- world
