@@ -70,8 +70,6 @@ main:
     image: /img/products-grid1.jpg
 ---
 
-# <<<<<<< HEAD
-
 sdcsdcdscsd
 
 sdc
@@ -79,5 +77,3 @@ sdc
 sdc
 
 sdc
-
-> > > > > > > 6842b674bf741639e0718d57f5539737496f59d9
