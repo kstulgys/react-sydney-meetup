@@ -5,7 +5,12 @@ image: /img/boats-in-body-of-water-1619854.jpg
 heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
-  body: dsvcsdvsdv
+  body: |-
+    dsvcsdvsdvs
+
+    sdcsdc
+
+    sdcsdc
   title: What we're about
 intro:
   blurbs:
