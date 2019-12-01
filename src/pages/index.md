@@ -6,11 +6,6 @@ heading: December 2nd talks
 subheading: Best meetup in Sydney
 mainpitch:
   description: |-
-    * so this is our markdown
-    * just 
-    * to prove
-
-    not
   title: What we're about
 description: We have 3 talks
 intro:
